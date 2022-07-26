@@ -1,0 +1,39 @@
+
+body {
+    background-color: black;
+    text-align:center; 
+}
+
+ul {
+
+    list-style-type: none;
+    text-align:center;
+    padding:0;
+    margin:0;
+    /* list-style-type: none; bulletleri siler */
+}
+
+li {    
+   
+    display: inline;
+    padding: 12px;
+    
+}
+
+li a {
+    text-decoration: none;
+    color:grey;
+    font-size: 30px;
+
+       
+}
+
+h1,h2,h3,h4 {
+    color: gray;
+    font-size: 30px;
+
+}
+p {
+    color: gray;
+    font-size: 20px;
+}
